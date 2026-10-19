@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120435369392",
+    "project_id": "emptest-3537e",
+    "storage_bucket": "emptest-3537e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120435369392:android:59a840fee4e83c83ec6275",
+        "android_client_info": {
+          "package_name": "emptest.company.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb8sRwNwn4vHdykDljuQPPQbcRLkwbla4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
